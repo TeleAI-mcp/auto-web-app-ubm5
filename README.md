@@ -1,1 +1,3 @@
-# auto-web-app-ubm5
+# Auto Web App Ubm5
+
+A repository to test GitHub automation for issue management.
